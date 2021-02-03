@@ -17,7 +17,7 @@ h2 {
 
 p{
     font-size:24px; 
-    padding-top:15px
+    padding-top:15px;
 }
 
 img{
@@ -27,7 +27,7 @@ img{
 }
 
 div{
-    height: 150px;
+    min-height: 150px;
     padding:25px 25px 25px 25px; 
 }
 
@@ -58,5 +58,5 @@ div{
 
 footer p{
     text-align:center;
-    padding:0px 10px 10px 0;
+    padding:0px 10px 10px 0px;
 }
